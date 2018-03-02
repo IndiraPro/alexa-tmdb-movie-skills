@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: backlash10-hasura
+  data: null
+  kubeContext: backlash10
+  name: backlash10

@@ -1,0 +1,5 @@
+description: A ready-to-deploy Alexa skill made using Python Flask-Ask. It gives Movie
+  Overview on invocation.
+media: {}
+name: alexa-tmdb-movie-skill
+platformVersion: v0.15.3
